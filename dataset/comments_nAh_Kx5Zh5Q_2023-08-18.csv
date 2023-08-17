@@ -1,0 +1,594 @@
+author,comment,published_at
+Clear Code,"Huge thanks again to NordPass Business for sponsoring this video. If you want a powerful password manager to conveniently and securely access your data from anywhere make sure to check them out. 
+At nordpass.com/clearcode you can get a 3 month trial to check it out. Doing that will also support my channel and help me make more videos!",2023-06-27T19:36:03Z
+Ashton Snapp,Holy fuck this is 11 hours long,2023-08-17T16:43:08Z
+DAC Protogen,"WOW. 11.5 hours of tutorial with video 'n all. That must have been a ton of work! Thank you and respect, bruh.",2023-08-17T10:49:14Z
+BonnieToGamer,At 3:07:00 instead of indexing the array with the `randi() % laser_markers.size()`. You could simply use the builtin function of `pick_random()`,2023-08-16T11:46:12Z
+vincent06,"Some comments for those who want to do this tutorial in C#:
+* 0:47:08 Call GD.Print() instead of print()
+* 1:11:18 Delta is a double and it causes some difficulties working with other variables. The only solution I found is to systematically cast delta to a float.
+* 2:15:24 Signals can (should ?) be handled with C# events. Custom signals are declared using the delegate syntax and must have the attribute [Signal]. Call EmitSignal() method instead of emit(). From my experience, doing this is easier than using the editor.
+* 6:27:40 Use a property instead of a variable otherwise the tween won't be able to find the property: speed { get; set; }
+* 6:35:13  I think casting the body variable to the Drone type with 'as' syntax would be more idiomatic. However you can do the same as in the video by calling HasMethod(""Hit"") and Call(""Hit"")
+* 8:13:07 The autoloaded nodes are located under root so you can access the ""Globals"" node like this : GetNode<Globals>(""/root/Globals""). However I'm not sure this is very useful since we can use static variables in C#.",2023-08-15T14:52:26Z
+Nejat Hakan,👍,2023-08-15T05:24:38Z
+PixelPerfectGamer,"omg , 11hours",2023-08-14T23:17:08Z
+𝐒𝐭𝐢𝐭𝐜𝐡𝐍𝐨𝐭𝐒𝐧𝐢𝐭𝐜𝐡™,Can you make a 3D Tutorial?,2023-08-14T23:16:54Z
+Angry Cat,"Day 1 - 10:02 ( What is Godot )
+Day 2 - 57:55 ( Working with code )",2023-08-14T14:40:52Z
+leder gg,"Thanks for this incredibly helpful guide!🤩
+And hello from Russia ( it's a pity that automatic translation of subtitles does not work beyond a certain time( )
+Если у кого-то возникают проблемы с пониманием текста, могу посоветовать скачать сабы с ютуба и перегнать его через переводчик файлов, с последующим использованием расширения для их показа (или выгрузить видео целиком и вставить сабы уже в плеере)",2023-08-14T09:27:49Z
+Phước Thắng Đinh,make a panda3d tutorial please,2023-08-14T04:35:21Z
+can of soda,"5:57:48 left off
+2:56:33 instancing",2023-08-13T22:55:41Z
+MouseMade Content,"Still watching, but this is one of the best explained beginner tutorials out there. Thank you very much for your work and Nordpass for sponsoring it.",2023-08-13T21:36:21Z
+Erneset,"Amazing work! Thank you so much, you're so good in explaining things!!",2023-08-13T21:32:48Z
+ThGe Re,"awesome tutorial !!💪💪
+I'm currently at the shaders part 11:31:30 , everything works fine, but when I put more than one scout in outside scene, I noticed that if one of the scout being hit, all the scout are updating to the white shader.
+i've checked the code and everything thoroughly, but still not figured out, is there any solution to this problem?
+thanks again~~~ :)",2023-08-13T18:44:41Z
+Madara uchiha(REBORN),Which programming language is used in this course ?,2023-08-13T13:59:58Z
+MasterBro Network,"Great video! 
+One question: Do you have to type _on_something_changed or could you do _onSomethingChanged?",2023-08-13T10:29:39Z
+Phước Thắng Đinh,which sprite editor did you use in mario making tutorial,2023-08-13T07:24:53Z
+Rafael de Oliveira Dias,Thank You!!,2023-08-12T20:31:59Z
+AGC NIKHIL,it was vry helpful,2023-08-12T12:27:43Z
+noTmiZ,"wtf, there's actually a download button which is pretty rare. Cases like this is when I disable adblock",2023-08-12T11:58:00Z
+Owen Shi,"Love your content, truly a godsend in the programming industry. Thank you for all your tutorials!",2023-08-12T02:52:33Z
+DOgi,"Just wondering, is it German accent? :)",2023-08-11T16:55:02Z
+ShahariaRahman,thanks for this tute . please make a video about networking multiplayer,2023-08-11T16:27:41Z
+♧Guria Aleatória♧,This video is what I needed. Thank you.,2023-08-11T15:30:26Z
+Harley O'connor,реально залип в видос,2023-08-11T05:59:17Z
+David Ceegore,"This is phenomenal!!!!!  Thank you so much!  Man I sure hope you continue making videos and tutorials.  You've made me believe again!!!  I have just turned 42 years old, and I have dreamed (and busted my behind) since I was a teenager, wanting to make games.  I walked away from that dream a couple of years ago because I thought I just couldn't do it, but you've made this so clear and it is more helpful than I can begin to explain to you!!  I'm back at it again!!!  Thank you and please keep making content like this!!!!",2023-08-11T02:44:18Z
+Haitham Albadi,"hello clear code
+can you make a full video about processing3 programming language?
+there are all codes in reference with fully explanations
+i am really want to learn processing3 , and also i want you to build apps on processing3
+its hard to understand the explanations about codes , )
+thank you",2023-08-10T22:16:12Z
+Sammikins,"at 3:12:40 - ""AHH LOOK IT SHOOTS YAY!""
+
+This felt like the first major step to having a game. Player movement and detecting keypresses seemed bland by comparison.",2023-08-10T18:52:26Z
+Soroosh.S83,The Tutorial we never knew we need it so far (I recommened spcially script/coding part),2023-08-10T18:12:37Z
+Vinay Rana,"9:43:54  hi! Excellent tutorial but I'm facing a problem....even after setting the collision layers as yours in item_container scene, my items are still getting destroyed immediately after spawning...I have checked everything multiple times but can't seem to find the issue... please help.... thanks 👍",2023-08-10T10:19:08Z
+MSH rocks,Which language Godot uses? Dose it use python?,2023-08-10T07:04:47Z
+Fame Monster,"Hey Clear Code amazing instructional video, are you going to be moving to the Godot engine tutorial, I code a lot of small games using Python, but Godot engine seems to make the work easier and streamlined. it would be amazing if you could make a Vampire Survivors tutorial at some point even if its for sale on your page.",2023-08-10T01:45:43Z
+عالم الغرائب the world of the strange things,Thank you sir thank you so much,2023-08-09T10:19:54Z
+Ivan A. Medina,"I am finishing the explanation about Delta time. I finally understand it, You explain it very clearly. Thanks!",2023-08-08T23:05:48Z
+BrotherDan Boyce,"I am a new subscriber working on my first game...a Pinball game.  I am enjoying learning and applying as I work through your tutorials.  In my game, I am to the point that I would like to add some complexity to the ball launch.  I feel I might do this using Path2D and PathFollow2D.  If you cover such (or similar) ways to have a character follow a given pathway, could you please let me know where that is in your tutorials?  Thanks...BrotherDan",2023-08-08T19:33:42Z
+Thorin_7,Question: In the inheritance part how was the func hit () getting called when a laser was hitting it instead of getting called constantly or doesnt get called at all ? Im new to programming based on classes (I only know javascript) .,2023-08-08T15:28:06Z
+PontiffJester,"Hello, I greatly appreciate the tutorial you've provided. I was wondering if it would be possible to avoid creating stuff (nodes, scenes, etc...) that we might ultimately need to delete?  I understand they are there to land a point. Alternatively, if you could give us a heads-up, similar to what you did around the six-hour mark, it would be immensely helpful. Thank you once again for the valuable tutorial.",2023-08-08T01:29:09Z
+Sajjad A,by lights the occlusionlayer 0 the lights stil can trou the outter walls plas tell me why that is happening,2023-08-07T15:43:31Z
+James Roberts,"Noticed something different for me at 2:59:45 The instantiated laser child scenes in your example are all named Laser, @Laser@2, @Laser@3 ... etc but in my Remote tab they are labelled Laser, @Aread2D@2, @Area2d@3 ... etc. The first one is Laser but subsequently they are called @Area2D@n. Not sure it matters in the grand scheme of things... I guess I will find out! Thanks for the great tutorial so far",2023-08-07T10:35:45Z
+Pie Trader Detective,"amazing Godot 4 tutorial!!
+in your next game project, can you get more in depth into the physics side of the game? 
+especially using the Jolt physics engine..where it performs 2x better than the built-in physics engine.",2023-08-07T05:14:59Z
+Junwei Hu,完美的godot4教程，找了这么长时间很少有讲的如此详细的视频，感谢作者的视频,2023-08-06T05:41:57Z
+Tomasz Śmigielski,"This seems like a great starting point for absolute beginners. But as a seasoned Unity and Unreal developer, I can't help but notice tons of bad practices. On top of that, there's also a lot of improper and inconsistent terminology, and completely ignoring (or just not mentioning) industry standard solutions...",2023-08-05T23:05:06Z
+Mostafa Shmaisani,"For real this is the best tutorial I have watched on YouTube, Thanks for it!",2023-08-05T19:49:06Z
+Alexander Spurlock,I am 3 hours in! Very well done!,2023-08-05T19:13:48Z
+PathForger,I am sure that this is a good tutorial - but I got bucked off the moment it came to download resources just nine minutes in. I've encountered this wall with other tutorials too -as I have an aversion to it. Thank you anyway.,2023-08-04T16:59:35Z
+CweaseGaming,This is not JUST great for godot. It's fundamental game dev knowledge. Thank you so much for this!,2023-08-04T16:36:42Z
+Cachivache,In the granade's explossion logic you use the _proccess to run a for loop for all the entities and containers in the scene. This loop will run multiple times for seconds (so its not be good for performance). I choose to use the explossion logic into the explode method (the method that runs the animation) and works just fine.,2023-08-03T19:52:16Z
+Geometry Dude,Ima watch the whole thing,2023-08-03T15:02:26Z
+Williamatics,Saving my time:  27:24,2023-08-03T12:39:28Z
+san yi,"also, I made the items spawn from the crates and they disappear immediately I hit the crates. I checked the collisions and they are just like in the video. I even disabled collisions completely and they still disappear right away.",2023-08-03T11:17:25Z
+san yi,"at 9:40:37 I write ""for container in get_tree().get_nodes_in_group(""container""):"" in the level script and run the game in the outside scene - the group nodes are not being printed. If I write the same thing in the outside scene script they are getting printed. What is happening? I am using Godot 4.1",2023-08-03T10:08:39Z
+Supremacy ECG,"1:46:00 this test function is joke, im doing same thing and it wont print...",2023-08-02T17:19:55Z
+Kush Rao Modi,Scripts can be created without being attached to a node. I followed a tutorial for a platformer game in Godot and I was able to do it.,2023-08-02T16:36:51Z
+Paradox,thanks i will follow all the video and create my game :) thank you so much!!,2023-08-01T21:12:11Z
+m4ch0m4n,"Hey, I'm really new to Godot, and programming in general, thank you very much for providing such in depth guide. I'm trying to follow it and learn with it. However I have an issue with Animation ( at 6:00:00 in) I did all the same as in guide but for whatever reason whenever I shoot grenade with animation player I still have visible explosion sprite on frame 28 (animation starts at 27) throughout whole blinking animation, then when function explosion is called only actual explosion animation is played and grenade disappears. It's really confusing. I managed to go around it by adding visible property on Blinking animation tied to Explosion sprite 2d, but there is no such step in the guide. Am I missing something?",2023-08-01T19:54:11Z
+Khaled Alshammari,"Amazing work! You actually made me get back to Godot, i tried to understand it many times! watched bad/outdated tutorials and kept feeling lost, the Godot Docs is massive and great but i felt overwhelmed, this video is just perfect for me!",2023-08-01T18:56:10Z
+VariableArtist,"Hello quick question how do you import the godot project stages?
+I have tried downloading the file and then using the godot import project as well as open godot project and extracting contents but the files cannot be opened for some reason.",2023-08-01T17:58:55Z
+João Pedro de Hollanda,"Bro really made a 11h tutorial for free, thank you! Got my respect ",2023-08-01T14:48:41Z
+Solo Leveling,"Is it possible for you to make a tutorial with Godot c# , they are very less tutorials in YouTube",2023-08-01T04:30:19Z
+Khaled Alshammari,"Make more Godot Videos, Please!!!!",2023-07-31T20:00:38Z
+Flahtort,Is there any way to help with the performance on 2d lights? Some sort of baking or something like that. In my project i have a ton of lights to the point where are they occasionally stop working from certain positions of character. How that can by fixed?,2023-07-31T08:22:21Z
+kardrasa,this so complex for my lil brain tho,2023-07-29T20:03:04Z
+Samsung A14,Wat is instence,2023-07-29T15:58:51Z
+Conrado Costa,"I don't have much to add here but I still would like to say that this is a great content. I hope you do more Godot videos, thank you for this tutorial.",2023-07-28T23:02:06Z
+Hossam Abdelhamid,Just thank you!,2023-07-28T21:04:52Z
+Pika,"An amazing tutorial, got me up to speed with godot pretty quickly, I'm just unable to find those last 3 hours of content lol",2023-07-28T20:19:13Z
+Ace,6:29:57 bro forgot to edit this part 💀,2023-07-28T19:38:27Z
+Meraklı Müşkülpesent,"Yo, dude. I've recently finished this tutorial and I'd like to say you're doing God's work here. Thank you so much.",2023-07-28T09:41:05Z
+Cameron Moore,Holy fuck,2023-07-28T07:50:31Z
+Lucifer Tiki,If any of you  guys have the files pliz upload and send a download link,2023-07-28T07:42:31Z
+Lucifer Tiki,Can you please put the resources on a place with easy download coz I can't seem to download them... But anyway this is a perfect tutorial and I'm starting it as soon as I can easily download resources,2023-07-28T07:38:04Z
+Sajjad A,"what are the breaklines for ?
+(pls tell me)",2023-07-27T14:39:22Z
+Заметки недобиолога,That’s awesome! After this video I really simply understand how to build a game!,2023-07-27T13:56:49Z
+Yuray,pls name of song at begining,2023-07-27T10:12:07Z
+Rock Jones,Very usefull thank you,2023-07-27T07:24:38Z
+Lenon Kitchens,"For posterity, around the 6 hour 6 minute mark when you're adding all the extra tracks to toggle the visible property of the light, I found it a lot easier to just make the light a child of the grenade sprite, thus inheriting it's visible property.
+
+At 6 hours and 36 minutes, since I'm using C#, I had to come up with another way.  I simply checked if (body is CollisionObject2D) then if (body.GetCollisionLayerValue(2), which is the enemy layer, then cast body to a Drone and call Hit().  If I had multiple enemy types, I'd write a class called Enemy extending CharacterBody2D and implementing Hit(), then have all my baddies extend Enemy.  Then instead of casting to a Drone, I'd cast to an Enemy and call Hit();",2023-07-27T01:51:10Z
+Hyde the Sea Panda,Am I gonna watch this whole thing whether it helps me or not? Yes. Is my body gonna like it? No,2023-07-26T12:04:41Z
+Shaun Dreclin,"Me: time for bed
+Also me:",2023-07-26T09:22:59Z
+Taun Hawk,"Wonderful tutorial! Thanks for sharing. I really enjoyed your Udemy course ""Learn Python by making games"". One small minor critique on this new tutorial, most of the time you give a nice good one breath pause over each scene as you describe it, but sometimes, not always, sometimes, you will switch to a new scene say something about it or even make a small change and quickly move to another scene without giving enough time for us to see and digest the moment. Of course we can simply rewind and pause, but sometimes this is done so quickly that even that takes a bit of tinkering to find a good pause point. But this is not a complaint, absolutely love the content that you share!",2023-07-26T05:45:17Z
+AgentCucco (Alt),"I got a few tips for people reading this, that I figured while messing around when I was watching, but before that.
+
+I really wanna appreciate how you're not patronizing and instead assume people here already know the basics of code and logic, unlike most tutorials out there that treat viewers like 3 year olds, lol. Also just appreciating having an actual guide that isn't ashamed of telling people ""hey, you wanna learn how to use this engine? Be ready to spend a whole week following along this 15 hour *introduction* "", unlike most introductions that only spend 15 minutes glossing over concepts and expecting you to be ready after that. Just huge shoutouts overall for this guide, a lot of time and effort went into it and it clearly shows. I went from being intimidated and not knowing how to do *anything* in the engine to being pretty confident in starting my first game out of many.
+
+Anyway, here are the tips for the people who clicked show more :P
+
+1.- Holding alt/shift/ctrl before and after holding a node, can help a lot with changing values on the fly. For example, ctrl allows you to rotate in 15° intervals, holding alt allows you to drag the node you're selecting in the tree without touching it in the scene (amazing if you find locking nodes constantly to be annoying), and shift, doesn't do much on its own, but is really powerful when combined with other hotkeys. Try messing around with combinations of these before and after grabbing a node, you'd be surprised at how much functionality there is.
+
+2.- The keys 1-5 allow you to zoom in from 100-1500% in the editor, while shift+1-5 allow you to zoom out from 50-3.13%. This is also really handy if you're someone like me who has a busted scroll wheel that only works when it wants to, lol, but also because I couldn't find a way to boost the zoom speed. Bear in mind the zoom applies to the last position you interacted with.
+
+3.- Holding space allows you to move around the scene without having to use scroll bars or the middle mouse button (which I clarify is busted on my end, lol).
+
+4.- Right click can also be really powerful, it was barely ever used in this guide, but I recommend everyone to mess around and right click everything they see to find really useful functions. One of the more convenient ones I found was adding keyframes in the AnimationPlayer.
+
+5.- Export variables are inherited through inherited scenes. While this was rather obvious to figure out, it was not shown in the guide. I personally used it to streamline the crate and toilet, by making the total_drops an export variable that I added in item_container, so I could just change that value in the inspector for both the crate and toilet.
+
+6.- While this isn't necessary, it can help to clean up your code. This video mentioned that snake_case was the default convention for Godot, and while this is true, if you mess around, you'll find out this varies quite a bit. By messing with CharacterBody templates, I found that the default convention for constants, is SCREAMING_SNAKE_CASE, which is not a surprise if you've worked with other languages in the past, but it wasn't mentioned in the guide. You'll also notice that signals and default functions have an underscore before them (i.e. _ready or _on_body_entered). If you stick to these conventions for your custom connected signals (like the ones in the level script), you'll make your code a lot cleaner, though maybe keep regular functions without the underscore at the start.
+
+7.- This one's a bit more advanced, but it can help you make your code a LOT cleaner, and is unlikely to be covered in the missing 3 hours. Early returns are really useful. If you don't know what an early return is, it means to call the 'return' operation before the end of the function. Say for example you have a really nested function like _process in the grenade script, instead of checking:
+
+if exploding:
+    rest_of_code
+
+you can check:
+
+if not exploding:
+    return
+rest_of_code
+
+You can probably see why this can be really powerful for making your code cleaner, as it reduces the amount of nests in your code. A rule of thumb is, if your code is getting out of the window, you probably have too many nests going on. It might be a bit counter intuitive to read at first glance, but being able to read all your code without having to scroll or look to the right, makes it a lot easier to parse when you're working with it. *Just make sure to return the value the function expects (void is usually the default one)*. This form of writing can also be used with the 'pass' operation when you're working with loops, for example.
+
+8.- On a similar vein as last one, another good habit for readability is separating ands/ors into different lines. By default in python this will give you an error, but you can fix it by just using a parenthesis.
+
+if long_name_condition1 and long_name_condition1 and long_name_condition1:
+
+to
+
+if (long_name_condition1
+and long_name_condition2
+and long_name_condition3):
+
+You can probably immediately tell why this is a lot easier to read, specially with long conditions that go super off-screen. This might get a little bit weird to write if you have more complex, separate conditions (and/or interchangeably, and using parentheses to separate them), but for repeating conditions like you see in the example with 2 ands, it's really simple.
+
+9.- Take all of these with a grain of salt! I have years of experience with LUA but I'm new to python/gdscript, so someone might come here and explain why some of my points are dumb or overkill. They are just advice that has worked for me personally and hope it might help other people, they are not hard rules set in stone that you must follow :P",2023-07-26T03:03:06Z
+threepoundcat,"I’ve been beating my head against the wall with gdscript and Godot for the past month, even after just 50 minutes with this video I understand so much more than I did before!",2023-07-25T22:26:45Z
+Cult of Ape,Holy fuck.,2023-07-25T11:14:44Z
+Qori,your logo looks like flutter's,2023-07-25T10:33:54Z
+mellowminx,"42:09 _ready() is run when a node's children have already had their _ready() functions called
+_enter_tree() is run when a node enters the node tree
+
+This was a really important clarification that took a while for me to understand as a Godot beginner.
+
+Thanks so much for this tutorial! 💕",2023-07-25T10:21:18Z
+Julien B,7:58:25 Is it really necessary to put this VBoxContaire inside a Control node that will only have that one child? I can't quite figure out what this convolution is for,2023-07-24T13:50:44Z
+oanh phạm kiều,Bro make a tutorial about how to use module godotengine in pythonscript plugin in godot please,2023-07-24T10:06:35Z
+Mostafa Shmaisani,"Actually we can ( .pick_random()) to pick randomly from an array instead of using ( randi % ...) in the selected_laser variable
+It is good to know both",2023-07-24T09:43:23Z
+godzilla giroflex,Really cool. Is the course still relevant for Godot 4.1.x? Did they change anything major or we're good?,2023-07-24T03:48:26Z
+Getuh Lyfe,10:17:37,2023-07-24T02:09:03Z
+Stick Man,I love the exercises! They were super helpful in helping me understand the material.,2023-07-23T21:23:50Z
+Samsung A14,"Wat dose return meen?
+(Pls answer)",2023-07-23T15:24:27Z
+Partrik4,"idk why but whenever instantiate a child scene, if i change the child scene like player it won't update on the level scene, the changes only appear once I play the scene but not while im editing.",2023-07-22T17:34:21Z
+Anas Siddique,Thank you so much for this course! This is best course I've seen on Godot :D,2023-07-22T16:52:57Z
+Nj Njhjh,holy shit I missed the :42 when I clicked on this,2023-07-22T06:41:36Z
+jstro-hobbytech,That's a kick ass opening song. Did you write it?,2023-07-22T05:15:29Z
+Jayesh Sarvaiya,"One of the best of Godot 4 tutorials out there !!! Insane amount of details and concepts covered in most easy way possible.... Thank you so much for putting all the efforts together... you deserve more n more subscribers... I REALLLLY hope there will be few more such complete Godot tutorials  + one  on Godot 3D as well, in future. ❤👌",2023-07-21T06:01:20Z
+Hayrow,"This tutorial has been a WONDERFUL transition for me from Unity to Godot!! You've explained the concepts really well and iterating through the exercises is such a great tool for learning! 
+
+I did run into one issue with the UI transitions and the Animation Player at 8:42:40 and I would love to know if you have any more insight on this: When trying this originally, setting the color to black made the solid black screen appear on running and I couldn't get it to work as I saw it in the tutorial
+
+After messing around, I found that adjusting the color to black while the animation player for fade_to_black was on the final frame (1 on the counter) forced the black screen to stay up. If I adjusted the color to black while the animation was on frame 0, the behavior was as shown in the video. I found the same thing with the reveal animation
+
+Do you think this is a bug? Or is this sort of Animation Player behavior something you've experienced as normal within Godot?",2023-07-21T04:00:58Z
+Corey Lauck,Stellar job,2023-07-21T02:06:12Z
+Pan z Polski,"Day 1: 3:21:07
+Day 2: 3:45:57",2023-07-20T23:08:10Z
+lion papa,No hay subtítulos en otros idiomas,2023-07-20T22:13:34Z
+Jakub Neumann,Isn't delta the time to render last frame as we cannot know the current frame render time? It might be significant if frame length differs.,2023-07-20T19:22:34Z
+Hellblazer 85,this will be my reference for a top down game. i hope you make a lesson about a level map with toggle on/off,2023-07-20T13:13:01Z
+Armaan Mohamed,"I have been waiting for this, thank you!",2023-07-20T08:08:25Z
+PinePlanet,I want more,2023-07-20T06:46:45Z
+死体,amazing tutorial man!! and for some reason i really like your voice..its very soothing :) thanks for the tutorial,2023-07-20T05:44:47Z
+can of soda,"i only have one problem so far and its at about 4:22:00, where the tilemap for the house is set up. If I allow Godot to automatically create tiles, then the tiles will be 16 pixels and too small to work with. If I set it up myself (with a size of 390 pixels), then the ""Cell Quadrant Size"" in the inspector will be too small (I cannot set it to anything below 128) and I will have to place each tile with pinpoint accuracy so that it aligns with its neighbors. I'm not sure if this will be important later and don't feel like finding out 3 hours into the future so I was wondering if anyone had a solution to this
+So far though this is the only problem I've faced in 4 hours so thats a plue",2023-07-20T00:39:13Z
+Cheeeeeese with bad mouse and keyboard,"Short and informative, awesome introduction to godot",2023-07-19T20:23:00Z
+Duncan Directory,8:46:17,2023-07-19T19:17:55Z
+Дмитрий Васьков,Can you split video for parts ? ? ?,2023-07-19T17:07:54Z
+Rupendra singh,Now you should go for 3D too,2023-07-19T16:41:58Z
+Egg,"This is it, this is the video that finally gets me past rotating a sprite in godot. I’m committed",2023-07-19T14:08:41Z
+Gustavo Pereira,"Thank you for uploading this for free,  I might finally dip my toes into game develeopment now :)",2023-07-19T12:19:04Z
+Phước Thắng Đinh,Can you make an gdscript tutorial,2023-07-19T07:44:59Z
+Koden,"6:15:00 Little tip: You can drag and drop the name of a property instead of manually typing it.  So in this case, if you click and drag 'zoom' onto the script, it will give you ""zoom"" this is useful for properties with long/complicated names.",2023-07-19T01:53:28Z
+MONK,Thank you very much for the great tutorial.,2023-07-18T18:56:35Z
+Duncan Directory,8:36:46,2023-07-18T18:35:47Z
+Duncan Directory,8:02:31,2023-07-18T15:56:17Z
+YouSupPop,It's the best tutorial I've seen for Godot 4,2023-07-18T13:38:50Z
+Sanchayan Mallick,"This really helped me understand the godot engine and gdscript, but when i checked the 3D editor of godot engine, its was different and the scripting is also a bit different, so i am wondering that will you make a 3D tutorial for godot 3D? And if you do then when it will be uploaded.",2023-07-18T08:46:58Z
+Cafe俺,この動画の続きがあったと思ったのですが、非公開にされましたか？,2023-07-18T06:50:28Z
+Duncan Directory,7:27:09,2023-07-18T01:53:33Z
+Druiduk1973,Fantastic. Thank you for this.,2023-07-17T22:02:02Z
+Duncan Directory,7:04:26,2023-07-17T17:59:58Z
+TeeJay,New sub :),2023-07-17T16:41:36Z
+Roody Ridar2,"thanks a lot, you are a legend,
+can you make a tutorial for python flet
+it would be amazing 😻",2023-07-17T15:26:25Z
+Wide Arch Shark,"I am following this through (4 hours in now). This has to be one of the best Godot tutorials on YouTube. It does need you to have a basic coding understanding. Provided you have that, this is a no-nonsense well-paced guide where I'm picking up so much information.
+
+Absolutely brilliant. Thank you so much.",2023-07-17T11:44:30Z
+Dimitri Tholen,"I'm only at the 3hr mark, but I'm very impressed by the quality of this course and the fact that you offer this course free of charge. 10/10",2023-07-17T11:42:56Z
+Foxmaiden,"I'm really appreciated for  this tutorial! Well explained!
+I will definily put yout name on my credits game!",2023-07-17T11:30:45Z
+Makaron Tushniak,"Try GMS2, will see how proper 2d game engine should work. In past I wasted time in Unity and Godot for 2d projects.",2023-07-17T09:27:32Z
+Steroids_On_Steroids,"Quick question, where did you get all the assets you used for the game (images)? When I load a Godot project it's completely empty.",2023-07-17T04:51:02Z
+Duncan Directory,6:29:21,2023-07-17T01:21:22Z
+boukhlif abdelkader,يا عرب  اين انتم,2023-07-17T00:40:59Z
+Irmain,Thanks you very much for this tutorial very well created and perfect to get start with Godot and continue with it,2023-07-16T18:24:27Z
+Duncan Directory,6:07:42,2023-07-16T17:16:47Z
+Y_D_7,How is this even possible. This is a gold mine,2023-07-16T14:56:44Z
+Andrew Cochran,"Thank you. This video is fantastic. You cover so many concepts that I already thought I knew — that I was already using — but with such detail and logical explanations that cement the concepts in my mind, giving me true understanding.",2023-07-16T14:24:42Z
+ras be,lemme get through this video and start thing with Godot,2023-07-16T13:17:00Z
+Icrosari,69 views,2023-07-16T13:12:47Z
+NikovK,Eleven... hours...,2023-07-16T07:22:41Z
+Keith Winget,"It's rare a video comes along that warrants bookmarking the video itself.  Yet, here we are.",2023-07-16T07:03:08Z
+50414e5453534806,Any news on whether Viewport Textures are faster? Dealbreaker Reason why I haven't moved over. My project uses a lot of extra cameras creating Viewport textures.,2023-07-16T04:36:54Z
+asthalis,"This video is pure gold for Godot newbies or others (like me) who started with Godot 3 and now switch to Godot 4.
+A thousand thanks for this !
+One happy new subscriber.",2023-07-16T04:01:26Z
+Duncan Directory,5:35:55,2023-07-16T01:58:14Z
+Henry,holy shit,2023-07-16T00:46:36Z
+MySimba,Can you do an Unreal Engine turorial like this? That would be amazing.,2023-07-15T23:43:59Z
+Sean S,"I cant thank you enough. Great tutorial, and fantastic presentation.",2023-07-15T19:00:33Z
+Dávid Semperger,"Thanks, this is an awesome intro to Godot! After watching the first few hours and messing about for about 3 more hours in Godot I managed to put together a very basic pinball game that I could extend quite a bit.
+
+I wanted to ask though about the pattern of putting variables in a global scene. How widespread is this practice and is it a good idea to get used to it? Being familiar with OOP, it's common to hear people say that you should limit access to your variables as much as possible. Wouldn't it be a better idea to place the player stats inside the player script and share them from there, even if it could be more inconvenient? Was the global script done only for the purposes of the tutorial perhaps? Thank you in advance for your time if you can answer. Keep up the good work!",2023-07-15T13:11:17Z
+Hivk,"Man I can barely make my own video last 2 minutes my god.
+I'm 6 minutes in and this already looks like an amazing tutorial.
+The fact that this is free is amazing!
+
+(I'll update this comment based on how far I've gotten)
+
+
+23 Minutes in, everything feels really clear, and I never feel like I have to catch up. Gonna take a break here. I also have an issue where I can't drag files into the FileSystem. (Problem solved, I can just open the folder in file explorer)
+
+1h in and everything is at such a nice pace. I don't ever feel pressured, yet I feel so much more in control over the software now. I feel like this tutorial has a lot of potential! Also finally a good explanation of Nodes. Crazy how such a weird concept is finally so easy to comprehend.
+
+1h 22m in, not much more. Was already familiar with DeltaTime, but this just reassured all my thoughts. Nice to see basically every concept being went through, and I'm not even a 10th of the way through. It's now 23 : 00 (11PM) so I'm gonna return to this tomorrow.
+
+2h 10m in. Coming from a Scratch user (yes ... you can actually make proper games in that, you can check out Griffpatch if you want) I'm much more used to writing my own functions for physics and stuff, but these explanations make me feel more confident in these inbuilt one. Especially about ""move_and_slide"" with the ""velocity"" variable.
+
+2h 38m: Timer and signals, this is something I think I was looking for. Absolutely crucial concepts and very nice to know. I will say the ""$Timer.start()"" function wasn't really made clear before the exercise, but after I viewed the solution, everything makes sense :)
+
+3h 20m: Clones huh. This is not at all like Scratch's clones work ... so I'm just slightly confu-.
+Whatever so long as I can copy paste rewatch and chatgpt whatever I'm fine I think (I am definetly a professional)",2023-07-15T12:52:33Z
+Kato,"Holy Shit, 11 and a half hours? Jesus man! Thank you so much for the support you are showing to the godot community!!! Thank you!",2023-07-15T11:50:26Z
+João Robalo,I have a GTX970 and adding just one light to the project makes the entire thing super slow :(,2023-07-15T11:44:12Z
+Tj Rizvi,"For newcomers coming from unreal, it seems like to me, nodes are the components, scenes are the new blueprints.",2023-07-15T08:10:41Z
+Duncan Directory,5:09:08,2023-07-15T00:54:20Z
+Koden,"5:32:32  Workaround for clicking on the one you want to click.  If you hold alt when clicking, you will only select the object that you have selected in the scene menu.  You don't need to lock them.",2023-07-15T00:33:23Z
+Koden,"5:31:27 A workaround for if you need split occlusion layers on TileSets, just make a second Occlusion layer and do it with that one, and keep the same mask and settings.",2023-07-15T00:22:17Z
+Duncan Directory,4:49:41,2023-07-14T23:29:44Z
+"3w4n ,",Epic video,2023-07-14T20:07:14Z
+Duncan Directory,4:28:10,2023-07-14T18:50:04Z
+Duncan Directory,4:2:10,2023-07-14T18:49:51Z
+Hi I Am Barney,"So I'm almost through now (after a devastating bug that was caused by the Spawn Positions children inside the Crate and Toilet, where I had accidentally named the parents Node2D ""SoawnPositions"". After renaming it properly in the parent, Godot crashed everytime when a Scene was loaded with one Crate or Toilet in it. I had to manually edit the TSCN file to not include these children anymore and re add them, which took a bit of fiddling. Scary stuff, none the less).
+
+I've had several run ins with unruly area body calculations, where my lasers in particular would simply sometimes disappear. I've learned that when checking collision boxes and masks, if I use the vertical ... symbol (which is a lot clearer as to what is selected anyways) for checking these, I get no issues. Depending on the current sauce on the spaghetti, that is Godot sometimes, this is something to watch out for!
+
+One thing I notice is that (especially for the enemies) we store the Player position in a ""Global Variable"". I think this is very unnecessary busywork and clutters up the code in the long run, at least if you want to access multiple things from the Player.
+I am not quite aware of Performance impact comparatively to the method shown but it's a lot easier to just add the Player CharacterBody2D to a Group called ""Player"" and in the enemy script, for example you want the Player Position, go like: pos = get_tree().get_first_node_in_group(""Player"").global_position
+And that's it, really.",2023-07-14T12:04:22Z
+eshaan gupta,some error with rigid body because in it is not shooting i dont know maybe new update of godot,2023-07-14T11:25:55Z
+Kiryonn Akira,"I've watched to 2:13:00 so i don't know if it's corrected later but i'd like to point out a mistake: Scripts doesn't need to be attached to a node. You can create a script that extends Reference or even Object as such:
+```gd
+extends Object
+class_name MyClass
+
+var attribute_1: int
+
+func _init(attribute_1: int):
+----self.attribute_1 = attribute_1
+```
+then you can create it wherever using
+```gd
+var my_custom_class_variable = MyClass.new(attribute_1)
+```
+As for References, it's super usefull when you want to create data files",2023-07-14T02:00:39Z
+Duncan Directory,3:21:07,2023-07-13T23:57:44Z
+Firnyx,9:34:10,2023-07-13T21:51:29Z
+Shinsuke Moriya,"BY THE GODS, im 4 hours in and just saw the total size of the video. LMAO!",2023-07-13T21:44:43Z
+Duncan Directory,2:15:24,2023-07-13T19:00:17Z
+Frank Drebin,"11:22:27 some explanation of that performance penalty: GPU runs multiple threads in parallel (32 for CUDA) on a single processing unit, and these threads are following the same instructions, but with their own memory (own variables). If one thread diverges due to ""if"" statement, the other threads have to wait until it finishes ""if"" block. In many cases conditions are perfectly fine, all depends if condition result will be the same between multiple threads at that point in time.
+Also problem with ""current_a == 1.0"" is that floats are an approximation, and almost in all cases you need inequality operator e.g. ""current_a >= 0.9999"". Godot manual have some more info about floats in shading language section.",2023-07-13T17:43:16Z
+Duncan Directory,1:21:34,2023-07-13T16:31:41Z
+Frank Drebin,"10:20:00 You can also keep track of who fired the projectile and exclude it in collision, this would be also useful for kill count for players/turrets.",2023-07-13T16:24:11Z
+Hawk Game Dev,"Great resources, thank you insta subscribed. You are doing humanity a great deal of help.",2023-07-13T15:22:02Z
+Frank Drebin,7:09:26 Autotiles make this waaay easier...,2023-07-12T23:16:53Z
+Gambly,Man I’m glad I found this video I’m trying to learn godot for a month but I can’t but with this video I actually think I can do it I am 4 hours in hope I don’t get in trouble!,2023-07-12T21:13:43Z
+Отдам блендер на запчасти,Not structured :-(,2023-07-12T18:19:12Z
+Herr Woland,This...this is 11 hours! (sits closer to the screen),2023-07-12T10:16:35Z
+JanbluTheDerg,God(ot)amn... that's a lot of hours...,2023-07-12T01:35:10Z
+Kenedy (SSS),TAH PORRA MENOR,2023-07-11T22:21:34Z
+Zemeio,"Some more advices I think could be useful here (disclaimer: I'm only 2 hours into the video and downloaded the final version to check it out)
+
+1. In your game, if you have a bigger screen you can see more, which can be unfair. It's easy to fix this by doing these steps (which will make your game scale if you increase the window size)
+    1. Project -> Project Settings
+    2. Turn on Advanced Settings (button on the top right)
+    3. Go to Display -> Window
+    4. Set the Stretch Mode to ""canvas_items""
+2. The things that mess with physics (moving, colliding etc) should be done inside the _physics_process, not _process. For this game it won't change that much, but it can generate some inconsistent physics for some more complex games. Things like timers, which depend on real time instead of physics frames, are usually better at _process.
+
+I will keep updating here with advice I can find, or if someone wants to reply with their own =).",2023-07-11T20:12:38Z
+Joshua Barratt,Fantastically clear and wonderfully paced. I can’t believe I watched a YouTube video as long as the LOTR trilogy and never got bored.,2023-07-11T15:25:29Z
+AbdelAziz Sharaf,"One of the best toturial management I have ever seen before
+thanks",2023-07-11T13:03:20Z
+ChocolateCoveredGummyBears,wow godot is a game engine? ty so hard to tell,2023-07-11T12:46:00Z
+AstroTech_Guy,"8:28:20 You can just write Color() and then right-click on ""Color"" and choose the Colorpicker to get a color-value. 
+
+Very good and extreme detailed tutorial. Well done like always!",2023-07-11T11:48:29Z
+Paweł Sawczuk,As always top video. You are the best programming teacher on youtube. I look forward to longer godot course on udemy as it was with pygame and python GUI!,2023-07-11T10:32:59Z
+abcdefgEnjoyer,"getting some weird glitch/bleed effects when i try to setup the Lightoccluder at 5:16:25
+
+put the occluder around the light instead of inside the texture like u did
+
+so weird how you do the grenade thingy at 10:44:55 - but in general it seems so weird to use groups in any way, shape or form to me xD",2023-07-11T10:06:34Z
+sali,"Amazing!!!
+I wanted to start Godot but was unable to find anything as a starting point. Then i stumbled on this 11 hour tutorial. This is just what the doctor ordered.
+Thank you for putting this online 🤠.
+Amazing!!!",2023-07-10T18:22:24Z
+Alex .G,Shortest coding tutorial:,2023-07-10T17:28:33Z
+first name,"OMG, get rid of your introduction -- its too LOUD -- and there is no need for 30 seconds of what is basically NO CONTENT -- just get on with the video",2023-07-10T17:21:49Z
+Warachot Promsa,Love your work!! Can you do a card game such as hearthstone with python video?,2023-07-10T07:57:01Z
+Squidtito,"Oh damn, this may be useful fr",2023-07-09T22:25:15Z
+savagekid94,"Thanks for this! You are essential to my python programming and game dev progression. After finding your videos I've since found a passion that was since lost when I was young. I never thought I could get in to game dev and programming because I hated math and anything thing that looked like it but it wasn't as bad as I thought, then you came along and now I'm having tons of ideas for goals and projects that I want to do for myself",2023-07-09T15:26:03Z
+TeraGeek,"6:28:40
+
+To add smoother movement and always put the player on the right spot.
+Also, nice vid. Got me back in to game dev.
+
+
+
+func _on_gate_player_entered_gate(body):
+	var tween: Tween = create_tween()
+	body.can_move = false # Player can't overwrite the speed or direction variables
+	body.speed = body.walking_speed # high_speed = over_shoot
+	tween.tween_property(body, ""direction"", Vector2(0, 0), 1)\
+		.from(($Gate/CollisionPolygon2D.global_position - body.global_position).normalized())",2023-07-09T12:42:18Z
+Scott Drew,"Excellent video. Super clear, not rushed, but not drawn out. Thank you 🙏",2023-07-09T12:35:55Z
+LuigiBro,"You helped me learning Python and Pygame, now I am starting to learn C++, thank you so much :)",2023-07-09T10:24:06Z
+🎃 𝕵𝖊 𝖘𝖚𝖎𝖘 𝖀𝖓𝖐𝖓𝖔𝖜𝖓 🎃,5:33 damn right after I clicked the button Your video card driver seem not to support required Vulkan version,2023-07-09T09:58:10Z
+Yacine Lyoubi,Did someone manage to use an api and get the result in other script ? I'm strugglling AF wiith this HttpREQUESTS,2023-07-09T03:36:08Z
+MVMS,"I have your Python course, you're a really good teacher, thank you for everything :D",2023-07-08T23:19:20Z
+Just A Guy,i'm wearing my glasses and I got to tell on 4.1 I do not see that blue square of what's visible to the player,2023-07-08T23:16:50Z
+Bob Jefferson,"I'm having an issue in the Creating custom scenes section. The laser projectiles are not presented in the game window whatsoever. I have checked the code numerous times, and the properties of the generated projectiles claim they  are where they should be (at the player) but there is nothing on the window. 
+
+If anyone could help or point me in the right direction, I would be grateful. Thanks!
+
+Edit: Turns out I used a Node instead of a node2D to store the marker2D's the laser would spawn at. Global positions don't seem to work with nodes but do work with node2D's. My bad!",2023-07-08T20:09:03Z
+Martin Goodson,"And ... they've only just released Godot 4.1. Darn it, it's hard to keep up with Godot. I assume 4.1 won't require another 11-hour video :)",2023-07-08T20:02:10Z
+Alex Lee,"""Godot is so easy to use!""
+
+
+The tutorial: 11hr long",2023-07-08T15:43:31Z
+SHINXBI 忍者,"2:39:00 Alternatively, you can right-click the parent node and save the branch as a scene :))",2023-07-08T13:49:46Z
+Vivek,"Excellent tutorial , specially the way you try to not cover up the small obstacles you get when you are trying to sort something out, you go through the process of debugging those issues and sorting those. thanks for your efforts !!",2023-07-08T13:25:18Z
+iWhisperASMR,Thanks!,2023-07-08T13:18:56Z
+Adam max,3D next time plz,2023-07-08T08:36:54Z
+Jouner,"what do i see lmao, i might try that video even if it is 11h long",2023-07-08T01:17:05Z
+Zachery Colbert,"This is amazing, thank you very much",2023-07-08T00:42:59Z
+THE GEEK CLUB,"Dang, dude, this isn’t a video. This is a full course. For free. Crazy stuff!",2023-07-07T15:40:43Z
+Unknown,"Can you make a godot 3d game tutorial please. This really helped me understanding godot but 3d is a little bit different so please , i never asked any youtubers before , your teaching skills is way too good , please accept my request.",2023-07-07T13:35:57Z
+M,"I'm only three hours in, but this is very well made. I really like that you include exercises where the student must use what they just learned. If you make paid courses, I will buy them.",2023-07-07T00:55:24Z
+Vandreic,"Thank you for creating such high-quality educational videos for free! Your teaching with small presentations, drawing on the screen etc. is really helpful, and I've learned a lot from your videos. Thank you Christian, for all the work and contributions you're making to the community.",2023-07-07T00:29:26Z
+robin Hobin,BIG THANKS BRO,2023-07-06T20:15:55Z
+Dailyz,Best godot tutorial,2023-07-06T19:57:02Z
+NamineX,Could you pls do a 3d one?,2023-07-06T18:17:30Z
+Jasher R,thaksssssssssssssssssssssssssss,2023-07-06T17:24:04Z
+Xander,"The sheer size of this video is impressive, massive props for the dedication to make this! I'll be watching this over the next week or so, and I'm sure I'll learn tens of new things I never knew about the Godot engine. This is the first video I'll be watching from your channel, but I'm sure it won't be the last!",2023-07-06T17:23:14Z
+Rockabluesy,This is the person that answer stackoverflow question,2023-07-06T11:49:34Z
+Vierkleur,"Thank you very much, so well done! You taught me a lot and I'm grateful, please do more if your time permits but short quick tutorials doesn't cut it, we need lectures like this, learning small things as you go. Keep well and all the best",2023-07-06T09:03:19Z
+Unknown,Can anyone provide the assets used in this video for practice purposes.,2023-07-06T07:29:34Z
+iYiyo,what a gem! thanks for this tutorial!,2023-07-06T03:01:17Z
+Hi I Am Barney,"Once I'm finished with my current Tutorial Series, this def will be worth a tackle!
+That Intro Song goes so hard too!",2023-07-06T00:53:22Z
+Android480,"With the removal of KinematicCharacter, how should I program a physics based protagonist? 
+
+Finding it confusing to control a RigidBody player with impulses, but I guess that’s correct?
+
+Also, how do you know when you need a physics based character, compared to a normal one with the physics hand coded in?",2023-07-05T21:38:37Z
+#BringBestOutOfBest,Your efforts are making me anxious about the human limits💋,2023-07-05T21:17:39Z
+Bezimienny,"A bit surprised you used Globals as Script. You can stuff Nodes into Globals, that would allow you to use signals inside of it.",2023-07-05T19:18:40Z
+Dipal Zambare,"Dear Chris, this is simply great thank you.
+
+But we always want more :) so if you can add a tutorial for settings screen (e.g. Turn on/off background music it will be really complete.
+
+At 2:39:00 we don't need to create the gate again, we can use ""Save branch as  a scene"" option.",2023-07-05T17:28:38Z
+Muhammad Abdullah,Can I Follow this Tutorial In Godot 3 I don't have Vulcan supported GPU just Intel Integrated one,2023-07-05T16:39:27Z
+MagCoder,"Hey bro. I like your videos, especially on Pygame. Learned a lot (especially about Tiled). I'd like you to make some very unusual Pygame content, like write your own set of GUI and HUD and add something unusual to it, like a minicard or compass widget, plus a widget for hero state/equipment, context menus, inventory menu and/or minicard and/or diary, purely as an additional module for Pygame. And as variants we could make some interesting graphical editor based on Pygame, for example 2d map editor or graph editor so we could move graph nodes with mouse (Drag'n'Drop function), implement some game components (for example light, particle system, triggers, time of day changer, camera). 😁😉",2023-07-05T14:53:37Z
+Geeves,"I thought this was an hour and not 11 hours.. amazing level of detail!!!
+
+I actually came here because another course I am doing (my frist one for Godot) started off really easy but it's zipping through increasingly advanced material and I am not keeping up with the leraning, just typing what I see and absorbing some of it, sometimes.
+
+I'm nearly 2 hours into this one and I feel like every, single step is explained in detail, which is what I need. THANK YOU!!!! 
+
+I thought I was going to blitz a 1hr course since I've been (kind of) keeping up with another course already but I am learning something the whole way.
+
+Also THANK YOU SO MUCH for providing the files at every stage!!! If I miss something, I am not punished for it, nor do I have to dig back through practically frame-by-frame to find what I missed that is preventing my progress in the future. 
+
+Absolutley so thankful for this.",2023-07-05T12:40:17Z
+Panagiotis kougioumtzidis,"Hi I want to congratulate you again for your excellent work.
+I’ve start doing the ‘The ultimate introduction to Godot 4’ but when I insert GPUParticles2D and trying to select from 'Process Material' the 'New ParticleProcessMaterial' the program crashes and close.
+When I insert GPUParticles2D it says:
+drivers/vulkan/rendering_device_vulkan.cpp:7735 - Condition ""!pipeline"" is true.
+This compute pipeline requires (0) bytes of push constant data, supplied: (32)
+No compute pipeline was set before attempting to draw.
+
+Is there something that I can do to fix this?
+Thanks again.",2023-07-05T11:58:25Z
+Flahtort,"I recently decided to learn Gamedev for fun (i know, strange hobby) and started yesterdey. Thanks god I decided yesterday and not like week ago when your video was not uploaded. 
+
+I searched ""Godot"" on youtube and saw your 11-hour video. I instantly realize that's what i'm neeaded. 1:15:00 into video already and seems good man! Thank you for your hard work, appreciate it so much!",2023-07-05T11:11:17Z
+Groupiefukilikeit,Only 10 mins in so far but thanks heaps for the upload looks awesome 👍,2023-07-05T09:47:57Z
+Artiom Markarian,"Great tutorial, It would be great if you will make the same for UE5 and Unity too",2023-07-05T08:36:33Z
+qooldeluxx,"this is by far the best intro to godot 4 tutorial on youtube. You did a fantastic job. I've been a bit overwhelmed getting into godot but your learning style, speech, and excercises have greatly helped me. Thank you so much!",2023-07-04T17:17:20Z
+Tim Rakes,Great video. Hope we see a lot more on Godot.,2023-07-04T16:01:55Z
+Wald Sin,"Thank you very much for your work. Your lessons have clarified so many points that I used to do on crutches, now I already have a basic set of knowledge that I feel is adequate for initial work on projects.
+
+I would like to make a small remark about the account 10:41:00
+It seemed to me that your decision was suboptimal to call the hit() function in _process().
+I did it a little differently:
+I added Area2D to Grenade and set Monitoring to false. This zone will be responsible for the affected area. After that, I added a call to the body_entered() handler
+func _on_attack_area_body_entered(body):
+    if body.has_method(""hit""):
+        body.hit()
+after that, I added a track to the Monitoring value in the AnimationPlayer, which first activates it at the moment of the explosion, and then turns it off after 0.1 seconds.
+That's all I needed for the mechanism to start working and the explosion occurred only once for all objects in the area.
+
+I also want to touch on the moment with custom signals. At many points, we need to connect signals manually - in the editor or with the help of code, and I think that this approach will complicate work with the code in the future.
+I can't offer a better solution yet, but I'll go down the following path:
+I will try to make each object as independent as possible. So that each scene is responsible for its own logic and, if necessary, calls parents or children, and checks for the presence of handlers.
+If such a system can be developed, then ideally every scene will run in any environment with the same behavior and we will not have many references in the code to scenes that are not related to each other.
+But this is not a decision, just an observation that I would like to organize better.
+
+Maybe someone has additional thoughts on this? It would be interesting to know.
+
+In any case, I am very grateful for your work. I hope that thanks to you, the Godot community will expand significantly and we will have many new and interesting projects based on this engine.
+I'm going to watch the second part.
+greetings from Ukraine.",2023-07-04T14:34:18Z
+Manfriny Pereira,01:37:45 I did it with the most possible difficult way... I used CTRL+LClick... lol.. and I thought: Which kind of human uses that commands? hahahahahaha (Was CTRL OR LClick),2023-07-04T14:23:24Z
+NO_ONE_88,Can you please do 3d,2023-07-04T06:15:57Z
+JungaBoon,This is pracrically half a summer college course right here,2023-07-04T01:41:18Z
+Carlos Eduardo Pérez,"Please make more Godot tutorials like this! Your way of explaining shaders just blew my mind at how easy you made it to comprehend 
+
+You just earned a new subscriber",2023-07-03T20:54:53Z
+Aael R.,"As someone who doesn't know coding yet, when the coding part with the positions and everything started, I got lost 🤣 But it's okay I'll get it eventually! Thank you for the tutorial, 11 hours are so much work. We appreciate it, especially since it's for the latest version of Godot and there aren't many tutorials up to date around :)",2023-07-03T19:12:21Z
+Mehedi Mim,can anybody help me ? i am facing problem while accessing to parent node .,2023-07-03T17:12:36Z
+Two Left Shoes,I shall not sleep tonight,2023-07-03T14:09:32Z
+WiseNoodle,Amazing video! Very very useful resource for beginners and intermediates,2023-07-03T12:49:30Z
+Hackenshaw,Not 11 minutes but 11 HOURS? Now I have to watch it,2023-07-03T11:35:13Z
+A T,"Your teaching style is chef kiss. I love the way you explain stuff clearly, as the name of your channel implies 🙏",2023-07-02T20:23:16Z
+Cody,"Been wanting exactly this. Thank you, its so hard to get started. My mind is focused on making games but theres so much other stuff to learn first when you know nothing.",2023-07-02T17:43:13Z
+Bill makes games,This is truly the ultimate introduction to godot. Would love to see more godot videos ❤,2023-07-02T09:58:31Z
+Quantum_HG,The way you express information is very 'clear' and the value you're adding by these videos is invaluable,2023-07-02T08:31:11Z
+YOUR ANONYMOUS YOUTUBER,subbed,2023-07-02T05:46:11Z
+ciscornBIG,"Well, now i have no excuse. Thanks bro.",2023-07-02T01:28:32Z
+Cschwatz,"I am just finishing the pygame tutorials (currently doing the ""zelda"" one) and was thinking of starting with a more robust game engine and literally thought of Godot. I was already planning on start to look for some tutorials and stuff. By some coincidence of destiny you just dropped a 11 hour tutorial for us. Hot damn mate, you are the real MVP. Thank you so much for your content!",2023-07-01T14:42:56Z
+Phat,What about efficiency on mobile platforms in comparison to Unity for example?,2023-07-01T13:42:00Z
+kraldragon,what is the music in the intro ?,2023-07-01T12:49:27Z
+DrWine,even for me who is not a begginer it's still useful,2023-07-01T11:20:29Z
+InnerEagle,"It's because of you people who make people pay their courses to hate you
+I paid 20$ for a course and you gave me twice as more for free, you are evil.
+I love you",2023-07-01T07:54:16Z
+Бойл Норингтон,Thanks. This titanic tutorial is awesome,2023-07-01T00:52:09Z
+Isometric Polygon,Couldn't have come out with this at a better time. Gonna be going through this course over the weekend. Thanks!,2023-06-30T21:00:52Z
+Clu,12 hours🔥bro is a menace,2023-06-30T19:25:33Z
+meezi,finally a great tutorial for godot,2023-06-30T18:27:00Z
+MKDLMR,Does this cover 3d as well as 2d?,2023-06-30T17:09:00Z
+hani,Thank you for your hard work. This is seriously top level content 😊,2023-06-30T16:58:50Z
+Aitor Álvarez,This came out just as I decided to try Godot again after 4 years,2023-06-30T15:08:28Z
+𓂀 𝕌𝕟𝕜𝕟𝕠𝕨𝕟 𓂀,thanks man i was leaving the godot because none teah me well but today i saw your video and i come back and i have learn soo many things man. GOD BLESS YOU,2023-06-30T13:27:08Z
+diego santos,I want so much a long video like this just about shade language🙏🙏🙏,2023-06-30T11:53:33Z
+Anwaar-Dev,Thanks!,2023-06-30T10:46:45Z
+unicorn_tamer,Finally! I 've been waiting for this for such a long time! Thank you for taking the time to make such hight quality content and releasing it for free!,2023-06-30T10:29:10Z
+Michael Gringauz,"This is one of the most comprehensive introductions to Godot I’ve ever seen 🤩 
+Keep them coming! 💪",2023-06-30T06:40:44Z
+Bissash,"Just found this video in my feed. Such a good recourse, I’ve watched already 2h straight of the course. I just found very insightful how you teach, thanks for the course!",2023-06-29T23:04:18Z
+Yousef Albasel,Bro i love you,2023-06-29T21:57:40Z
+Klank,11 hours woah,2023-06-29T20:13:07Z
+anwaar ullah,🔥,2023-06-29T19:58:42Z
+Palash Tailor,Man  I wanted to learn Godot but I could not find a good tutorial. But thanks man Your tutorial is wholesome,2023-06-29T17:41:35Z
+Dam Board,oh yes,2023-06-29T16:39:07Z
+6cv,nuclear launch codes? lol 4:22,2023-06-29T16:32:08Z
+Archer Wayne,"Hi Clear Code, I am really appreciate the tutorials you make. I started code in pygame a year ago because your videos not only teach code but also explain the ideas behind it. This makes me truly understand programming in a desginning level and I made few games using pygame. 
+
+Now I started using Godot because I wanted to create a more complex game and I feel python's proformance is not good enough. But I struggled to learn godot because most tutorials didnt explain things clearly as you did. 
+
+Thanks for the programming videos you made over the years. Gaming programming now has became the most important passion to me and it was your videos that overcame difficulties on the way. Love!",2023-06-29T15:37:22Z
+Soheil Salah,"Yesterday I was searching about game development and how the game engines work, and finally I decided to download and learn Godot, and today by coincidence I found the awesome 11-hour video talking about Godot in detail. Thanks a lot, Clear Code. You Are The best.",2023-06-29T15:35:25Z
+bexplosion,Can't find section with skeleton animation. Is it in this tutorial?,2023-06-29T13:09:26Z
+xylos froxy,Bro please make a ultimate course on flutter I want to learn it so badly  but their is nobody who can explain that much effectively as you can 🙏🙏,2023-06-29T12:57:17Z
+healplease,"Hey @ClearCode, thanks for the video! I am a python web dev, and I really wanted to have a grip on Godot, but just couldn't make it with existing tutorials. This one is a gold nugget! 
+
+Also, I would like for you to add projectiles to the graphics folder, this one seems to be missing on the repo. Thanks a lot!",2023-06-29T11:04:56Z
+DiVad,"The exact moment I needed this, clear code never fails.
+
+Don't stop creating these videos AND THANK UUUU",2023-06-29T08:53:44Z
+Daine Minton,Been waiting for this !!!,2023-06-29T03:22:52Z
+PafoDev,"Just finished watching the platformer video, and i was looking to learn godot and just in time you uploaded this incredible tutorial I LOVE YOU",2023-06-29T02:31:25Z
+Futuristic Llama,"me: learning to code is har-
+this masterpiece: HALELLUYA! HALELLUYA!",2023-06-29T02:11:25Z
+Savin Nikitos 🇺🇦,Godot is top,2023-06-29T00:32:57Z
+Julien-Carl Dubois-Lafaille,"I'm not there yet, still going through the pygame videos, but you bet I will watch this later in the summer!",2023-06-29T00:05:34Z
+Marlon Solleske,Glad that the classes continue :),2023-06-28T21:56:29Z
+Anup Shanbhag,"Thank you so much for this amazing 14 hours tutorial! Just wanted to mention that in your resources/graphics folder, the projectile images are missing. I just moved the projectiles folder from the full game to the resources/graphics folder. Thanks a lot again!",2023-06-28T21:52:28Z
+Josue Barros,"You are amazing brother!!
+
+Will you teach us how to create a Quake-like game with Godot and TrenchBroom?",2023-06-28T20:28:35Z
+William,Man I just made the swap from pygame to godot and this couldn't come at a better time.,2023-06-28T20:26:35Z
+Not a Software Engineer,I am going to watch every second of this video,2023-06-28T19:50:33Z
+Chigstar Dan,I was wondering when last since you uploaded only scroll YouTube and see this banger of a video you dropped. Love it!,2023-06-28T18:32:09Z
+Wiktor,i was literally doing your pong tutorial yesterday and praying that u will do an updated one,2023-06-28T17:52:40Z
+Gamer Tech,"THANK🎉
+
+Make tutorial on design pattern, d. Principles ,SOLID and architecture. 
+this area tuts very less in gamedev community
+Example: full function game rpg, chaAracter customz, abilities, buff duff, ai, main game logic etc",2023-06-28T17:39:48Z
+Woeden,"Damn, 10+ hours tutorial 🔥🔥",2023-06-28T17:14:39Z
+SquareRootOf2,This super mega tutorial has the potential to spawn thousands of new Godot game developers. Very good pacing and very clear and thorough explanations. Great job!!!,2023-06-28T16:57:59Z
+Blackest Bill,*FYI* this video is only 7hr 40mins at 1.5x speed,2023-06-28T16:55:34Z
+Blackest Bill,God bless you! <3,2023-06-28T16:51:36Z
+Sinegazer,"I'm learning godot rn, this is really cool",2023-06-28T16:51:10Z
+Alex Mejia,the best godot video.,2023-06-28T16:44:10Z
+Pranav Boddu,damn i wish i had this when i started lol,2023-06-28T16:42:06Z
+EveyHedgehog,Cool video to upload on my birthday,2023-06-28T16:39:06Z
+beanie,This mad lad,2023-06-28T15:32:42Z
+Shih Yueh Jan,Hello,2023-06-28T15:19:13Z
+vodka whisperer,btw what happened to the video about pygame rotation? it just disappeared one day,2023-06-28T15:17:18Z
+juiceDéLemon,Oh hell nah. You motivated me to make a realistic snake game! I still have my neovim setup to do!!!!,2023-06-28T14:52:34Z
+Holy Graphite,😯😯😯,2023-06-28T14:36:43Z
+Temirlan,"Yeaaah, finally godot tutorial. Thank you so much!",2023-06-28T14:19:16Z
+Apfel,"OH MY GOD THANK YOU
+
+I wanted to learn Godot for sooo long but all the tutorials were shit or outdated.
+
+I have watched the complete 4 hours of your pygame tutorial (and even coded along) + the complete 2 hour python classes tutorial and you explain everything SO GOOD
+
+you are BY FAR the best coding channel (at least when it comes to explaining things) on youtube :)",2023-06-28T14:10:20Z
+Lucas Brentano,Really interested in the Shader video!,2023-06-28T14:08:23Z
+OptimizeLife,Lets gooooooooooo,2023-06-28T13:36:15Z
+Math Go,"""where we go"" - mario",2023-06-28T13:01:02Z
+Mareczekw30,"I entered to see, what it is about, might be cool intro to something new. Then I see 11 and half hours... Incredible. Thank you in the name of all code learners :)",2023-06-28T12:56:14Z
+Flamingle Games,"Man… I fell out of programming years ago. I really enjoyed both game development and your content back in the day. Just stumbled across this video on my page, and I’m wondering if this is a sign I should get back into it? Either way, thank you all that you’ve done for the community! Your impact has meant a lot.",2023-06-28T12:37:31Z
+Dinesh Kumar,Love you bro ❤❤❤ wanted to learn Godot from a long time but didn't find someone better than you,2023-06-28T12:33:05Z
+VantaTree,People like you really are really driving the pygame and even godot community forward <3,2023-06-28T12:26:03Z
+Reza Shir,thanks a lot. I check your channel every day and I respect you a lot,2023-06-28T12:25:35Z
+Lucas Brentano,"Really good quality video, good job!",2023-06-28T12:23:48Z
+N1k4,"Wow. When I wanted to learn Pygame I found your course when it was free and now when I decided use Godot, you uploaded this video. Thank you so much 😅😅",2023-06-28T12:14:01Z
+Pietro iz2rpn,"Thank you for the video, Italy thanks you as well.",2023-06-28T12:12:18Z
+Gogei,"This is amazing, but could you please do this for Unity too (:",2023-06-28T12:09:17Z
+bahamajo,That's what I've been waiting for. Thanks a lot!,2023-06-28T12:04:47Z
+BOGDAN F.,Thank You! Cant wait to watch it! 🙏,2023-06-28T12:00:32Z
+oussema,Amazing ❤🎉,2023-06-28T11:55:01Z
+BeRaikwal,IVE BEEN WAITTTINGGGGGGGGG,2023-06-28T11:53:46Z
+The Blue Cactus Studios | Memory ,And just when I thought Im gonna stay on Godot 3 😭😭😭,2023-06-28T11:53:18Z
+quest of answers,"idk man , i just installed godot was looking for a video and here i am",2023-06-28T11:49:09Z
+Subaru Natsuki,Thank you always for all the pieces of art you have uploaded! Got your Python course some weeks ago and all of your explanations are extremly easy to understand :D,2023-06-28T11:28:34Z
+Ivan Yosifov,I knew this guy was up to something. He was gone for 3 months.,2023-06-28T11:26:25Z
+Firnyx,Omgg are you serious!!! This is amazing more than 11 hours for free thank you so much,2023-06-28T11:25:53Z
+Potato CAT,"tile maps! particles !   and even PATHFINDING !!!!!!!!!!!! all in one  
+i knew clear code has the potential  
+",2023-06-28T11:23:42Z
+Potato CAT,"YOOOOOOOOOOOOOOOOOOO! 
+the exact video i wanted so much my life GO GOTOD 4!!!!",2023-06-28T11:21:06Z
+Emperor,bro really came back after 3 months with an 11 hour long video 👏🏼 just wanna say thanks because i’ve been following along all your pygame vids and they’ve taught me a lot.,2023-06-28T11:16:40Z
+Bin Bin,You make a lengendary video again <3,2023-06-28T11:10:19Z
+Aaron Esh,Your lessons are so good. One of the best I've ever seen on YouTube,2023-06-28T11:08:21Z
+Prashant,"Epic
+Thank you Sir.",2023-06-28T11:07:30Z
+mohammed ,🎉🎉🎉🎉,2023-06-28T11:05:00Z
+Random Channel,"Hello, clear code. Welcome back! Your courses are awesome.",2023-06-28T11:03:10Z
+crackfoolman,Wow thank u very much!!!,2023-06-28T11:02:53Z
+Pro Param,This is so epic thanks!,2023-06-28T11:02:46Z
+Linux Enthusiast Gamer,Hello first comment,2023-06-28T11:02:17Z
+Critical thinking,A new video from ClearCode. Yaaaaaay 😁,2023-06-28T11:02:07Z
