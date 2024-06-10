@@ -112,6 +112,8 @@ def process_comments(response_items):
 
 For loading the data, I used Pandas, a powerful library that helped me transform the list of comments into a neat CSV file.
 
+![csv](https://github.com/erinchocolate/youtube-etl/blob/main/comment.png)
+
 Some videos had more than one page of comments. I used a while loop to retrieve all comments that looked for the nextPageToken in each response. Whenever another page of comments was available, the response would include a nextPageToken.
 
 ```python
@@ -172,5 +174,7 @@ In summary, while the current project encountered challenges due to Twitter API 
 After doing all the work, now it’s exciting: I can send an email to say thank you and deliver some value to the YouTuber I like!
 
 Here is the email I sent to him:)
+![email](https://github.com/erinchocolate/youtube-etl/blob/main/Email.png)
 
 I was so thrilled to get his reply!!
+![reply](https://github.com/erinchocolate/youtube-etl/blob/main/Reply.png)
